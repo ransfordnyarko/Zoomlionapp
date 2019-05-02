@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "296284562309",
+    "firebase_url": "https://cleanzoom-d1adc.firebaseio.com",
+    "project_id": "cleanzoom-d1adc",
+    "storage_bucket": "cleanzoom-d1adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296284562309:android:b93b6f461ddc5fff",
+        "android_client_info": {
+          "package_name": "com.example.workingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296284562309-4a2i2c7imhg02is0pvm6atkf7sug21al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXJpk9urq12U0d2-yAD6A4HlPuFolkwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296284562309-4a2i2c7imhg02is0pvm6atkf7sug21al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
